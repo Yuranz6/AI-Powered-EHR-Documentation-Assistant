@@ -100,7 +100,4 @@ Follow the interactive prompts to:
 
 
 
-## Authors
-
-Yuran Zhang - Yuranz6
-Rubing Zhang - baisiyou 
+ 
