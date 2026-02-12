@@ -1,4 +1,4 @@
-# EHR Documentation Assistant
+# AI-Powered EHR Documentation Assistant
 
 An AI-powered system for medical consultation transcription, SOAP note generation, examination recommendations, and drug safety checking.
 
